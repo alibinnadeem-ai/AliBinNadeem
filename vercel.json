@@ -1,5 +1,4 @@
 {
   "framework": "nextjs",
-  "env": { "NODE_ENV": "production" },
-  "regions": ["sin1", "fra1"]
+  "env": { "NODE_ENV": "production" }
 }
